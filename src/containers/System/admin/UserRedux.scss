@@ -1,0 +1,27 @@
+.row {
+    padding: 0 100px;
+    .form-row {
+        display: flex;
+    }
+}
+.preview-img-content{
+display: flex;
+    .img-container{
+        .image-upload{
+            padding: 6px;
+             border-radius: 3px;
+             background: #ddd;
+             cursor: pointer;
+             &:hover{
+                opacity: 0.7;
+             }
+        }
+    }
+    .preview-image{
+        width: 12%;
+        background: center center no-repeat;
+        background-size: contain;
+        cursor: pointer;
+    }
+
+}

@@ -1,0 +1,24 @@
+{
+    "menu": {
+        "admin":{
+            "manage-user":" người dùng",
+            "manage-doctor":"Quản lý bác sĩ",
+            "manage-admin":"Quản lý Admin",
+            "crud":"CRUD user",
+            "crud-redux":"CRUD Redux",
+            "clinic":"phòng khám",
+            "manage-clinic":"Quản lý phòng khám",
+            "specialty":"Chuyên khoa",
+            "hanBook":"Cẩm nang",
+            "manage-specialty":"Quản lý chuyên khia",
+            "manage-hanBook":"Quản lý bài đăng"
+        },
+        "doctor":{
+            "schedule":"Quản lý lịch trình",
+            "manager-schedule":"Quản lý kế hoạch phòng khám",
+            "patient":"Quản lý bệnh nhân",
+            "manager-patient":"Quản lý lý kế hoạch bệnh nhân"
+        }
+    }
+   
+}
